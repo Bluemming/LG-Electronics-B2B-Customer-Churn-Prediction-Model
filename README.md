@@ -30,5 +30,5 @@
 
 
 <div align='center'>
-<a href="https://www.lgresearch.ai/news/view?seq=421"> LG Aimers 4기 과정 마무리</a>
+<a href="https://www.lgresearch.ai/news/view?seq=421"> AI 전문가의 길을 열어주는 LG Aimers 4기 과정 마무리</a>
 </div>
