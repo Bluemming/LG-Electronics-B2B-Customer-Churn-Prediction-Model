@@ -2,8 +2,6 @@
 
 <h1 align='center'> MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발 </h1>
 
-&nbsp;  
-
 <h3 align='center'> 🏆 온라인 해커톤 8위, 오프라인 해커톤 9위 달성 </h3>
 <div align='center'>
 <a href="https://www.lgresearch.ai/news/view?seq=421"> AI 전문가의 길을 열어주는 LG Aimers 4기 과정 마무리</a>
