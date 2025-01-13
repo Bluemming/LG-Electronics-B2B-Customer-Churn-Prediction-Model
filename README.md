@@ -1,12 +1,6 @@
-# LG-Electronics-B2B-Customer-Churn-Prediction-Model
+<h4 align='center'> LG Aimers 4기 - LG전자 </h4>
 
-<h4 align='center'> LG전자 </h4>
-
-<h1 align='center'> LG Aimers 4기 </h1>
-
-<h3 align='center'> MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발 </h3>
-
-<a href="https://www.lgresearch.ai/news/view?seq=421"> AI 전문가의 길을 열어주는 LG Aimers 4기 과정 마무리</a>
+<h1 align='center'> MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발 </h1>
 
 <br>   
 <div align='center'>
@@ -32,4 +26,9 @@
         </tr>
     </tbody>
 </table>
+</div>
+
+
+<div align='center'>
+<a href="https://www.lgresearch.ai/news/view?seq=421"> LG Aimers 4기 과정 마무리</a>
 </div>
