@@ -71,4 +71,7 @@ LG전자 MQL 데이터(B2B)
 &nbsp;  
 
 ## 분석 과정
-
+<img src="./images/LG_Aimers_4th(0).png" width="800" height="400"/>
+<img src="./images/LG_Aimers_4th(1).png" width="800" height="400"/>
+<img src="./images/LG_Aimers_4th(2).png" width="800" height="400"/>
+<img src="./images/LG_Aimers_4th(3).png" width="800" height="400"/>
